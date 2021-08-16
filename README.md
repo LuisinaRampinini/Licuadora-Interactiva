@@ -1,2 +1,2 @@
-# LuisinaRampinini.github.io
+# LicuadoraJS
 Licuadora interactiva Javascript

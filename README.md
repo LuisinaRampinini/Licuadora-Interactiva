@@ -1,2 +1,2 @@
-# LicuadoraJS.github.io
+# LicuadoraJS
 Licuadora interactiva Javascript
